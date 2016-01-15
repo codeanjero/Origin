@@ -1,2 +1,2 @@
 # Origin
-petit programme audio en javascript
+Petit programme audio en javascript
